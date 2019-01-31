@@ -6,6 +6,6 @@ This project is distributed under the MIT [license](../../blob/master/LICENSE).
 
 The [CONTRIBUTING](../../blob/master/CONTRIBUTING) file tells you how to get involved.
 
-The code of conduct is given [here](../../blob/master/CODE_OF_CONDUCT.md)
+There is a [code of conduct](../../blob/master/CODE_OF_CONDUCT.md)
 
 This project is under development.
