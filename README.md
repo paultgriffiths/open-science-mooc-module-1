@@ -2,7 +2,7 @@ This is a repository created as part of participation in the Open Science MOOC, 
 
 You shouldn't need to contact me about this repo but a link to my profile can he found [here](https://github.com/ptg21)
 
-This project is distributed under the MIT [license](../blob/master/LICENSE).
+This project is distributed under the MIT [license](../../blob/master/LICENSE).
 
 The [CONTRIBUTING](../blob/master/CONTRIBUTING) file tells you how to get involved.
 
