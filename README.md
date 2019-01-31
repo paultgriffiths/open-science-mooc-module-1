@@ -4,8 +4,8 @@ You shouldn't need to contact me about this repo but a link to my profile can he
 
 This project is distributed under the MIT [license](../../blob/master/LICENSE).
 
-The [CONTRIBUTING](../blob/master/CONTRIBUTING) file tells you how to get involved.
+The [CONTRIBUTING](../../blob/master/CONTRIBUTING) file tells you how to get involved.
 
-The code of conduct is given [here](../blob/master/CODE_OF_CONDUCT.md)
+The code of conduct is given [here](../../blob/master/CODE_OF_CONDUCT.md)
 
 This project is under development.
